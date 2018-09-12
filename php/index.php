@@ -9,7 +9,7 @@ function test($a,$i){
     return $a."-".$i;
 }
 
-echo test($a,$i);
+echo test($a,$i);a
 
 $i = "ardy";
 $a = "ardy";
@@ -20,7 +20,7 @@ function test($a,$i){
     return $a."-".$i;
 }
 
-echo test($a,$i);
+echo test($a,$i);a
 
 $i = "ardy";
 $a = "ardy";
@@ -31,7 +31,7 @@ function test($a,$i){
     return $a."-".$i;
 }
 
-echo test($a,$i);
+echo test($a,$i);a
 
 $i = "ardy";
 $a = "ardy";
@@ -42,7 +42,7 @@ function test($a,$i){
     return $a."-".$i;
 }
 
-echo test($a,$i);
+echo test($a,$i);a
 
 $i = "ardy";
 $a = "ardy";
@@ -53,7 +53,7 @@ function test($a,$i){
     return $a."-".$i;
 }
 
-echo test($a,$i);
+echo test($a,$i);a
 
 $i = "ardy";
 $a = "ardy";
@@ -64,7 +64,7 @@ function test($a,$i){
     return $a."-".$i;
 }
 
-echo test($a,$i);
+echo test($a,$i);a
 
 $i = "ardy";
 $a = "ardy";
@@ -75,5 +75,5 @@ function test($a,$i){
     return $a."-".$i;
 }
 
-echo test($a,$i);
+echo test($a,$i);a
 ?>
