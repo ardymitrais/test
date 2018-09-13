@@ -75,5 +75,5 @@ function test($a,$i){
     return $a."-".$i;
 }
 
-echo test($a,$i);aaabbbb
+echo test($a,$i);aaabbbbccccc
 ?>
